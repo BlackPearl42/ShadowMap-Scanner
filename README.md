@@ -51,3 +51,15 @@
  
 # my suggest Command-Line python ShadowMap_Scan_web1.py -u https://target.com --insecure --delay 1.5 --deep --shodan YOUR_KEY
 # ShadowMap-Scanner
+
+
+
+
+# If you find ShadowMap useful and would like to support me, any contributions are greatly appreciated!
+
+**Bitcoin (BTC) Wallet Address:**
+`bc1q3k9pkq8qxzqq3axkew6r7g9wswr9madcrypt25`
+
+# (You can also add a QR code image link here if you host the image elsewhere, e.g., `![Donate BTC](https://your-image-host.com/bitcoin_qr.png)`)
+
+# Thank you for your support!
