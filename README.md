@@ -50,3 +50,4 @@
 
  
 # my suggest Command-Line python ShadowMap_Scan_web1.py -u https://target.com --insecure --delay 1.5 --deep --shodan YOUR_KEY
+# ShadowMap-Scanner
