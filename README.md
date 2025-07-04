@@ -28,7 +28,7 @@ To get ShadowMap up and running on your Termux (Android) or Linux environment, f
 2.  **Clone the Repository:**
     Use `git clone` to download the tool to your device:
     ```bash
-    git clone [https://github.com/BlackPearl42/ShadowMap-Scanner.git](https://github.com/BlackPearl42/ShadowMap-Scanner.git)
+    git clone https://github.com/BlackPearl42/ShadowMap-Scanner.git 
     ```
 
 3.  **Navigate to the Tool's Directory:**
@@ -45,6 +45,7 @@ To get ShadowMap up and running on your Termux (Android) or Linux environment, f
 
 1.  **Update and Upgrade System Packages:**
     ```bash                                                               sudo apt update && sudo apt upgrade -y
+    sudo apt update && sudo apt upgrade -y
     ```
 2.  **Install Python3 and Git:**
     Kali Linux usually comes with Python3, but it's good to ensure it's up-to-date along with Git.
@@ -53,7 +54,7 @@ To get ShadowMap up and running on your Termux (Android) or Linux environment, f
     ```
 3.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/BlackPearl42/ShadowMap-Scanner.git](https://github.com/BlackPearl42/ShadowMap-Scanner.git)
+    git clone https://github.com/BlackPearl42/ShadowMap-Scanner.git
     ```
 4.  **Navigate to the Tool's Directory:**
     ```bash
