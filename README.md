@@ -3,7 +3,7 @@
 
 ## ✨ Features
 
-* **HTTP Header Analysis:** Detailed examination of server responses, including content types, caching, and custom headers.
+* **HTTP/HTTPS Header Analysis:** Detailed examination of server responses, including content types, caching, and custom headers.
 * **Security Header Checks:** Identifies missing or misconfigured security headers like Content-Security-Policy, Strict-Transport-Security, X-Content-Type-Options, and X-Frame-Options.
 * **WAF/CDN Detection:** Automatically detects Web Application Firewalls (WAFs) and Content Delivery Networks (CDNs) like Cloudflare.
 * **IP & Direct Connection Testing:** Resolves the target IP and attempts direct connections for potential WAF bypass strategies.
