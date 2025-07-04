@@ -40,7 +40,29 @@ To get ShadowMap up and running on your Termux (Android) or Linux environment, f
     ShadowMap depends on a few Python packages. Install them using `pip`:
     ```bash
     pip install -r requirements.txt
+
+### Installation on Kali Linux
+
+1.  **Update and Upgrade System Packages:**
+    ```bash                                                               sudo apt update && sudo apt upgrade -y
     ```
+2.  **Install Python3 and Git:**
+    Kali Linux usually comes with Python3, but it's good to ensure it's up-to-date along with Git.
+    ```bash
+    sudo apt install python3 python3-pip git -y
+    ```
+3.  **Clone the Repository:**
+    ```bash
+    git clone [https://github.com/BlackPearl42/ShadowMap-Scanner.git](https://github.com/BlackPearl42/ShadowMap-Scanner.git)
+    ```
+4.  **Navigate to the Tool's Directory:**
+    ```bash
+    cd ShadowMap-Scanner
+    ```
+5.  **Install Required Python Libraries:**
+    ```bash
+    pip install -r requirements.txt
+    ```    ```
 
 ## 💡 Usage
 
@@ -50,8 +72,6 @@ Run ShadowMap from your terminal. Use the `-h` flag for help:
 python ShadowMap_Scan_web1.py -h
 
 Basic Scan:
-
-Bash
 
 python ShadowMap_Scan_web1.py -u [https://example.com](https://example.com)
 
@@ -83,7 +103,7 @@ Bitcoin (BTC) Wallet Address:
 
 bc1q3k9pkq8qxzzqq3axxew0r7g9wswr9madcrypt25
 
-Thank you for your support!
+Thank you for your support!```
 
 By the way this whole thing made by Android/Termux hehe because i dont have pc or laptop but it took from me almost 10h 🫠 but i enjoy solve every problem 
 
