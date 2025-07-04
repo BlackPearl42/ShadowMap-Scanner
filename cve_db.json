@@ -1,0 +1,17 @@
+{
+    "Apache 2.4.49": {
+        "pattern": "Apache.*2\\.4\\.49",
+        "cve": "CVE-2021-41773",
+        "desc": "Path Traversal & Remote Code Execution"
+    },
+    "nginx": {
+        "pattern": "nginx",
+        "cve": "CVE-2019-20372",
+        "desc": "Memory corruption via crafted HTTP/2 requests"
+    },
+    "WordPress": {
+        "pattern": "WordPress",
+        "cve": "Multiple CVEs",
+        "desc": "Check WordPress version for plugin/theme vulns"
+    }
+}
