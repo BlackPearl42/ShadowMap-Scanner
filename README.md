@@ -1,4 +1,4 @@
-# A powerful all-in-one web reconnaissance tool for penetration testers, bug bounty hunters, and security researchers. Detects security misconfigurations, missing headers, sensitive files, backend technologies, CVEs, potential injection points, and more.
+# My first project [A powerful all-in-one web reconnaissance tool for penetration testers, bug bounty hunters, and security researchers. Detects security misconfigurations, missing headers, sensitive files, backend technologies, CVEs, potential injection points, and more.]
 
 
 # Installation Termux 👉 kali 👉 linux 👍
@@ -59,7 +59,5 @@
 
 **Bitcoin (BTC) Wallet Address:**
 `bc1q3k9pkq8qxzqq3axkew6r7g9wswr9madcrypt25`
-
-# (You can also add a QR code image link here if you host the image elsewhere, e.g., `![Donate BTC](https://your-image-host.com/bitcoin_qr.png)`)
 
 # Thank you for your support!
