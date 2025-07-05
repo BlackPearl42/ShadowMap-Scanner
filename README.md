@@ -14,6 +14,7 @@
 * **Subdomain Enumeration:** Discovers subdomains related to the target domain.
 * **Customizable Scans:** Supports custom wordlists for sensitive path and subdomain enumeration, along with adjustable timeouts and delays.
 * **User-Friendly Output:** Utilizes `colorama` for clear, color-coded output, making results easy to read and understand.
+* **Optimized for Stealth & Speed:** Designed to minimize noise and rapidly gather information, enhancing evasion against common detection mechanisms
 
 ## 🚀 Installation (Termux/Linux)
 
@@ -106,5 +107,5 @@ bc1q3k9pkq8qxzzqq3axxew0r7g9wswr9madcrypt25
 
 Thank you for your support!```
 
-By the way this whole thing made by Android/Termux hehe because i dont have pc or laptop but it took from me almost 10h 🫠 but i enjoy solve every problem 
+## By the way this whole thing made by Android/Termux hehe because i dont have pc or laptop but it took from me almost 10h 🫠 but i enjoy solve every problem 
 
